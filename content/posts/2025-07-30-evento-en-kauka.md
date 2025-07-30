@@ -6,7 +6,9 @@ featured_image: /fechas.png
 draft: false
 tags:
   - kauka
+  - demo
 categories: []
 ---
 
 Un evento en el futuro cercano.
+
