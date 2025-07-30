@@ -10,5 +10,5 @@ tags:
 categories: []
 ---
 
-Un evento en el futuro cercano.
+Un evento en el futuro cercano, en algún lugar.
 

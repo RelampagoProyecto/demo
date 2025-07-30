@@ -55,5 +55,6 @@
       "path": "[[workspace]]/content/posts"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.git.commitMessage": "Actualizado por XXX - {{hour24}}:{{minute}} "
 }
