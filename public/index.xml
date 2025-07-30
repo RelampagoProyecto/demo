@@ -6,8 +6,15 @@
     <description>Recent content on Demo para KAUKA</description>
     <generator>Hugo</generator>
     <language>es-co</language>
-    <lastBuildDate>Wed, 30 Jul 2025 21:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 22:01:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evento en Kauka</title>
+      <link>http://localhost:1313/posts/2025-07-30-evento-en-kauka/</link>
+      <pubDate>Wed, 30 Jul 2025 22:01:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-07-30-evento-en-kauka/</guid>
+      <description>&lt;p&gt;Un evento en el futuro cercano.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Una entrada con medios externos</title>
       <link>http://localhost:1313/posts/2025-07-30-una-entrada-con-medios-externos/</link>
