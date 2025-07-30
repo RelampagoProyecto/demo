@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Demo para KAUKA</description>
     <generator>Hugo</generator>
     <language>es-co</language>
-    <lastBuildDate>Wed, 30 Jul 2025 21:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 21:26:30 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kauka</title>
+      <link>http://localhost:1313/tags/kauka/</link>
+      <pubDate>Wed, 30 Jul 2025 21:26:30 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kauka/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Demo</title>
       <link>http://localhost:1313/tags/demo/</link>
@@ -16,24 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Kauka</title>
-      <link>http://localhost:1313/tags/kauka/</link>
-      <pubDate>Wed, 30 Jul 2025 21:09:42 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kauka/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Otro Tag</title>
       <link>http://localhost:1313/tags/otro-tag/</link>
       <pubDate>Wed, 30 Jul 2025 21:09:42 +0000</pubDate>
       <guid>http://localhost:1313/tags/otro-tag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prueba</title>
-      <link>http://localhost:1313/tags/prueba/</link>
-      <pubDate>Wed, 30 Jul 2025 16:02:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/prueba/</guid>
       <description></description>
     </item>
   </channel>
