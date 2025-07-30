@@ -1,6 +1,6 @@
 ---
 title: Evento en Kauka
-description: ""
+description: se vienen cositas
 date: 2025-07-30T22:01:28.064Z
 featured_image: /fechas.png
 draft: false
